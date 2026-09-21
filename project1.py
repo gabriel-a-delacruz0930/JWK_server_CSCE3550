@@ -1,3 +1,12 @@
+# Gabriel De La Cruz
+# gad0126
+
+# I did use AI to help me get the project started and flowing.
+# I fed Gemini prompts to help me follow the guidelines and fill in the gaps of what I was missing.
+# Ex: "I have an assignment, requirements below, and im not sure how 
+# to get started. can i just do this on vs code and that's it?"
+# I also used Gemini to resolve any issues.
+
 import base64
 import json
 import time
